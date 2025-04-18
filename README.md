@@ -61,3 +61,9 @@
 <img src="https://raw.githubusercontent.com/balaji-palani/balaji-palani/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/balaji-palani/count.svg?"  />
+</div>
+
+###
